@@ -14,7 +14,6 @@ def long_planeteer_calls(array)
   i = 0 
   array.any? {|i| i.length > 4}
   i = i + 1
-  end 
 end
 
 def find_the_cheese(array)
